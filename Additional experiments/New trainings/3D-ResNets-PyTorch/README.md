@@ -1,4 +1,4 @@
-#Github repository by Hirokatsu Kataoka et al. Slight modifications to prepare the images for processing and obtaining other output measures. What follows is the original README.md's content:
+Github repository by Hirokatsu Kataoka et al. Slight modifications to prepare the images for processing and obtaining other output measures. What follows is the original README.md's content:
 
 
 # 3D ResNets for Action Recognition
